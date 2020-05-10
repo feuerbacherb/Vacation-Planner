@@ -17,11 +17,17 @@ The requirements of the project are as follows
 
 ## Elevator story
 You and your family are coming up to a three day weekend where everybody is off.  Somebody says that they want to get away and go camping.  Normally you would need to first find a park or place to go, then check out the weather, then go somewhere else to find a campground that meets your needs.  It's really a pain.
+
 We have created a new application called Vacation Planner to help in the decision making process.  We have combined a number of resources to do data mining of information so you don't have to.
+
 Want to go to a different state and see what parks they offer?  We have that.
+
 Want to see what the weather is going to be over the next couple of days?  Yep, it's there.
+
 Want to read about the campgrounds at the park?  We also provide that.
+
 Are you interested in seeing what activities the parks support and offer?  Because we give you that information as well.
+
 Vacation Planner will give you a well-informed decision making tool that will allow you to maximize your activities and get right to the fun!
 
 ## Description of the Working Program
